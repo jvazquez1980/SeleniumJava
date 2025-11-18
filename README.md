@@ -1,2 +1,2 @@
 # SeleniumJava
-Selenium Java repository with gradlew and Cucumber
+Selenium Java repository with gradle and Cucumber
